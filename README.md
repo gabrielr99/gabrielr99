@@ -7,7 +7,7 @@
     - 🔭 Estou á procura do meu primeiro trabalho profissional.
   </p>
   <p>
-    - 🌱 Atualmente estou aprendendo TypeScreept.
+    - 🌱 Atualmente estou aprendendo TypeScript.
   </p>
 </div>
 <br>
