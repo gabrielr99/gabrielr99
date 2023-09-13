@@ -40,7 +40,7 @@ class Skills extends Desenvolvedor {
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <div>
   <p align="left">
-  Se Gostou do meu perfil, entre em contato comigo:
+  Se gostou do meu perfil, entre em contato comigo:
 </p>
 
 <p align="left" margin-top="40em">
