@@ -7,7 +7,7 @@
     - 🔭 Estou á procura do meu primeiro trabalho profissional.
   </p>
   <p>
-    - 🌱 Atualmente estou aprendendo TypeScript.
+    - 🌱 Atualmente estou aprendendo Programação Orientada a Objeto.
   </p>
 </div>
 <br>
@@ -18,13 +18,13 @@
 import Desenvolvedor from "Gabriel";
 
 class Skills extends Desenvolvedor {
-  FrontEnd = ["Html", "Css", "JavaScript", "React", "Redux"];
-  BackEnd = ["NodeJs", "Docker", "ExpressJs", "MySQL", "Sequelize"];
+  FrontEnd = ["Html", "Css", "JavaScript", "React", "Redux", "TypeSript"];
+  BackEnd = ["NodeJs", "Docker", "ExpressJs", "MySQL", "Sequelize", "TypeSript"];
   Areas = ["FullStack", "FrontEnd", "BackEnd"];
 }
 ```
 <br>
-<hr>
+<hr>"TypeSript"
 <br>
 <div align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
