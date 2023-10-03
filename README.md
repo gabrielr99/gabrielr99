@@ -7,7 +7,7 @@
     - 🔭 Estou á procura do meu primeiro trabalho profissional.
   </p>
   <p>
-    - 🌱 Atualmente estou aprendendo Programação Orientada a Objeto.
+    - 🌱 Atualmente estou aprendendo NextJs e TailWind.
   </p>
 </div>
 <br>
@@ -19,7 +19,7 @@ import Desenvolvedor from "Gabriel";
 
 class Skills extends Desenvolvedor {
   FrontEnd = ["Html", "Css", "JavaScript", "React", "Redux", "TypeSript"];
-  BackEnd = ["NodeJs", "Docker", "ExpressJs", "MySQL", "Sequelize", "TypeSript"];
+  BackEnd = ["NodeJs", "Docker", "ExpressJs", "MySQL", "Sequelize", "TypeSript", "POO"];
   Areas = ["FullStack", "FrontEnd", "BackEnd"];
 }
 ```
